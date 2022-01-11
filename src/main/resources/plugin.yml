@@ -1,0 +1,5 @@
+name: 'Minemoji'
+version: '1.0'
+author: 'Lowrie'
+main: xyz.lowrie.minemoji.MinemojiPlugin
+api-version: '1.13'
